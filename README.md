@@ -1,12 +1,12 @@
 # Cybersecurity Portfolio
 
-Portfolio dokumentujące moją naukę cyberbezpieczeństwa, bezpieczeństwa aplikacji webowych oraz bug bounty.
+A personal portfolio documenting my journey into cybersecurity, web application security, and bug bounty.
 
-## 👨‍💻 O mnie
+## About Me
 
-Jestem początkującym entuzjastą cyberbezpieczeństwa. Rozwijam umiejętności poprzez praktyczne laboratoria, CTF-y, projekty oraz naukę podstaw bezpieczeństwa aplikacji.
+I am a beginner cybersecurity enthusiast focused on developing practical skills through hands-on labs, CTFs, personal projects, and security research.
 
-## 🎯 Obszary nauki
+## Areas of Focus
 
 * Linux
 * Networking
@@ -16,40 +16,53 @@ Jestem początkującym entuzjastą cyberbezpieczeństwa. Rozwijam umiejętności
 * Burp Suite
 * Python
 * Git / GitHub
-* CTF / Security Labs
-* Bug Bounty methodology
+* CTFs and Security Labs
+* Bug Bounty Methodology
 
-## 🧪 Praktyka
+## Hands-On Practice
 
 ### TryHackMe
 
-Praktyczne ćwiczenia i write-upy:
+Notes and write-ups from completed security labs.
 
-* [TryHackMe](./tryhackme/)
+[View TryHackMe write-ups](./tryhackme/)
 
-### Projekty
+### Projects
 
-* [Projekty](./projects/)
+Small programming and cybersecurity-related projects.
 
-### Notatki
+[View Projects](./projects/)
+
+### Notes
+
+Technical notes created while learning.
 
 * [Linux](./notes/linux.md)
 * [Networking](./notes/networking.md)
 * [Web Security](./notes/web-security.md)
 * [Security Tools](./notes/tools.md)
 
-## 📚 Obecnie uczę się
+## Currently Learning
 
-* podstaw Linuxa
-* podstaw sieci komputerowych
-* bezpieczeństwa aplikacji webowych
-* metodologii testów bezpieczeństwa
-* pisania profesjonalnych raportów
+* Linux fundamentals
+* Networking fundamentals
+* Web application security
+* Security testing methodology
+* Vulnerability research
+* Writing professional security reports
 
-## ⚠️ Disclaimer
+## Goals
 
-Wszystkie testy bezpieczeństwa wykonuję wyłącznie w środowiskach laboratoryjnych, CTF-ach lub programach, które wyraźnie zezwalają na przeprowadzanie testów.
+* Build strong cybersecurity fundamentals
+* Gain practical experience through legal security labs
+* Develop programming and scripting skills
+* Learn web application security
+* Build a professional cybersecurity portfolio
 
-## 📈 Cel
+## Disclaimer
 
-Moim celem jest systematyczne rozwijanie umiejętności w cyberbezpieczeństwie i stworzenie praktycznego portfolio pokazującego moje postępy.
+All security testing documented in this repository is performed only in authorized environments, CTFs, security labs, or programs that explicitly allow testing.
+
+## Progress
+
+This repository is continuously updated as I learn and complete new projects and labs.
