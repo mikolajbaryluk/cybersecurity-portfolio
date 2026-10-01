@@ -15,3 +15,8 @@ oraz metodologii bug bounty.
 
 ## Nauka
 - TryHackMe
+
+## Cele
+- Poznać podstawy bezpieczeństwa aplikacji webowych
+- Rozwinąć umiejętności w zakresie testów bezpieczeństwa
+- Zbudować praktyczne portfolio
